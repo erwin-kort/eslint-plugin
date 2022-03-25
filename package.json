@@ -1,0 +1,12 @@
+{
+  "name": "@erwin-kort/eslint-plugin",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@typescript-eslint/parser": "^5.26.0"
+  },
+  "devDependencies": {
+    "@types/eslint": "^8.4.1"
+  }
+}
